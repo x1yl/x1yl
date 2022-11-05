@@ -36,3 +36,5 @@ I've been coding for 2 years starting with HTML and CSS. I have recently learned
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/xtyl"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+![](https://hit.yhype.me/github/profile?user_id=106912268)
