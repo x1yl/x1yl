@@ -28,6 +28,8 @@ I've been coding for 4 years starting with HTML and CSS. I have learned python a
 
 <a href="http://www.github.com/x1yl"><img src="https://github-readme-stats.vercel.app/api?username=x1yl&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" alt="x1yl's GitHub stats" /></a>
 
+<a href="https://www.github.com/x1yl"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=U07V3BSCSF2&api_domain=waka.hackclub.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" /></a>
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/xtyl"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
