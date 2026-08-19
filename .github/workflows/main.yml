@@ -22,7 +22,6 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          core_version: "2.1.5"
 
       - name: Generate wakatime card
         uses: stats-organization/github-readme-stats-action@v2
